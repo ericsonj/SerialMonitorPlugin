@@ -1,4 +1,4 @@
-# SerialMonitorPlugin
+# Serial Monitor Plugin
 
 Serial Monitor Plugin for Netbeans IDE with support GNU/LINUX and Windows.
 
